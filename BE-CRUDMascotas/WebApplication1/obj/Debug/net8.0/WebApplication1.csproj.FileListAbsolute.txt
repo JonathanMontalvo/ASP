@@ -147,3 +147,4 @@ C:\Users\johnn\Desktop\Project\BE-CRUDMascotas\WebApplication1\obj\Debug\net8.0\
 C:\Users\johnn\Desktop\Project\BE-CRUDMascotas\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
 C:\Users\johnn\Desktop\Project\BE-CRUDMascotas\WebApplication1\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\johnn\Desktop\Project\BE-CRUDMascotas\WebApplication1\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\johnn\Desktop\Project\BE-CRUDMascotas\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

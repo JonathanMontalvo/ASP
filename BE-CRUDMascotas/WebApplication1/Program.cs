@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using WebApplication1.Models;
 using WebApplication1.Models.Repository;
-using WebApplication1.Models.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,7 +19,6 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 // Persistenc
 builder.Services.AddScoped<IMascotaRepository, MascotaRepository>();
-builder.Services.AddScoped<IMascotaService, MascotaService>();
 
 // Cors
 builder.Services.AddCors(options => options.AddPolicy("AllowWebapp",

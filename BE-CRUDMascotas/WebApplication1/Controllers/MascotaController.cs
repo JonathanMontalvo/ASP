@@ -13,11 +13,12 @@ namespace WebApplication1.Controllers
 
     public class MascotaController : ControllerBase
     {
-        private readonly IMascotaRepository _mascotaService;
+        private readonly IMascotaRepository _mascotaRepository;
         private readonly IMapper _mapper;
 
-        public MascotaController(IMascotaRepository mascotaRepository, IMapper mapper) { 
-            _
+        public MascotaController(IMascotaRepository mascotaRepository, IMapper mapper) {
+            _mascotaRepository = mascotaRepository;
+            _mapper = mapper;
         }
 
         [HttpGet("Ver")]
@@ -121,7 +122,9 @@ namespace WebApplication1.Controllers
                     return NotFound($"No se encontró ninguna mascota con el ID {id}");
                 }
 
-                await _mascotaRepository.UpdateMascota(mascotaItem);
+                var mascota = _mapper.Map<Mascota>(mascotaDto);
+
+                await _mascotaRepository.UpdateMascota(mascota);
 
                 return NoContent();
             }
