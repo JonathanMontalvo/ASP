@@ -1,0 +1,14 @@
+.card {
+  margin-top: 10px;
+  text-align: center;
+  background-color: inherit;
+  color: black;
+}
+mat-card-subtitle{
+  color: gray;
+}
+
+mat-form-field{
+  width: 100%;
+  margin: 5px;
+}

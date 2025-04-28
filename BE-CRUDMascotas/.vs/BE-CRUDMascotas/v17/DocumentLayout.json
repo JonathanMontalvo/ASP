@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|c:\\users\\johnn\\desktop\\project\\be-crudmascotas\\webapplication1\\models\\repository\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|c:\\users\\johnn\\desktop\\project\\be-crudmascotas\\webapplication1\\models\\repository\\imascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\repository\\imascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|c:\\users\\johnn\\desktop\\project\\be-crudmascotas\\webapplication1\\models\\profiles\\mascotaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\profiles\\mascotaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|c:\\users\\johnn\\desktop\\project\\be-crudmascotas\\webapplication1\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|c:\\users\\johnn\\desktop\\project\\be-crudmascotas\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|c:\\users\\johnn\\desktop\\project\\be-crudmascotas\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2D3F16B-6290-4B65-AA1A-305088306D32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MascotaProfile.cs",
+              "DocumentMoniker": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Models\\Profiles\\MascotaProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Profiles\\MascotaProfile.cs",
+              "ToolTip": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Models\\Profiles\\MascotaProfile.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Profiles\\MascotaProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:57:39.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MascotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Models\\Repository\\MascotaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\MascotaRepository.cs",
+              "ToolTip": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Models\\Repository\\MascotaRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\MascotaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:57:12.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMascotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Models\\Repository\\IMascotaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Repository\\IMascotaRepository.cs",
+              "ToolTip": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Models\\Repository\\IMascotaRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Repository\\IMascotaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:57:11.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:13:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MascotaController.cs",
+              "DocumentMoniker": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Controllers\\MascotaController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MascotaController.cs",
+              "ToolTip": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\Controllers\\MascotaController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\MascotaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:54:21.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\johnn\\Desktop\\Project\\BE-CRUDMascotas\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T16:19:48.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
